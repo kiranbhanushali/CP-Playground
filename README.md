@@ -1,9 +1,3 @@
-## Sublime-Text Snippets - Getting the most out of the repository
-Copy the files inside `sublime-snippet` directory to `C:\Users\{username}\AppData\Roaming\Sublime Text 3\Packages\User` to enable tab triggers in Sublime-Text.
-
-![](gif/sublime_snippet.gif)
-
-## Tab triggers to be used
 
 ### Number Theory
 * __modular__: Handling modular integers
