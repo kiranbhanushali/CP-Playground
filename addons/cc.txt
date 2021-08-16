@@ -1,2 +1,0 @@
-doskey c = g++ -pedantic -std=c++17 -DLOCAL -O2 -Wall -Wl,--stack=268435456 $*.cpp -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC -Wshadow -Wfloat-equal
-cd Documents\cpp\contest
